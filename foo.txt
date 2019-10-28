@@ -1,0 +1,3 @@
+     This is a file with three lines
+     Lines two is text, Line three is dots
+     .....
